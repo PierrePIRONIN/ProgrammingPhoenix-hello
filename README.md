@@ -1,6 +1,6 @@
 # Hello
 
-This is the tutorial project I follow during the [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix) book reading.
+This is the tutorial project I follow during the first chapter of [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix) book reading.
 
 ## Learn more
 
